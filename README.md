@@ -47,7 +47,7 @@ console.log(newArrayNumbers); // => [33, 20]
 
 // Filtramos o array MyObjects pelo nome
 let newArrayObjects = myObjects.filter(object => object.name === 'Lucas Massi');
-console.log(newArrayObjects) // => [ { name: 'gandalf' } ]
+console.log(newArrayObjects) // => [ { name: 'Lucas Massi' } ]
 ```
 
 # Reduce()
